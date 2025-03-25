@@ -10,8 +10,8 @@ This analysis was conducted as part of a Business/Data Analyst evaluation, testi
 
 ## 📁 Files Included
 
-- `19209670289_Ritik_Kumar_Excel-240726.xlsx` – The main Excel file used for analysis and data modeling.
-- `19209670289_Ritik_Kumar_Excel Summary-240910.pdf` – A summary report containing detailed responses to 11 business questions derived from the dataset.
+- `medication-usage-analysis-excel.xlsx` – The main Excel file used for analysis and data modeling.
+- `Medication-Usage-Analysis_Excel_Report_Summary.pdf` – A summary report containing detailed responses to 11 business questions derived from the dataset.
 
 ---
 
